@@ -2,7 +2,7 @@
 
 Vencord is a community project and welcomes any kind of contribution from anyone!
 
-We have development documentation for new contributors, which can be found at <https://docs.vencord.dev>.
+We have development documentation for new contributors, which can be found at Work in progress.
 
 All contributions should be made in accordance with our [Code of Conduct](./CODE_OF_CONDUCT.md).
 
@@ -18,38 +18,34 @@ Writing a plugin is the primary way to contribute.
 
 Before starting your plugin:
 - Check existing pull requests to see if someone is already working on a similar plugin
-- Check our [plugin requests tracker](https://github.com/Vencord/plugin-requests/issues) to see if there is an existing request, or if the same idea has been rejected
-- If there isn't an existing request, [open one](https://github.com/Vencord/plugin-requests/issues/new?assignees=&labels=&projects=&template=request.yml) yourself
+- Check our [plugin requests tracker]() **Work in progress** to see if there is an existing request, or if the same idea has been rejected
+- If there isn't an existing request, [open one]() yourself **Work in progress**
   and include that you'd like to work on this yourself. Then wait for feedback to see if the idea even has any chance of being accepted. Or maybe others have some ideas to improve it!
 - Familarise yourself with our plugin rules below to ensure your plugin is not banned
 
-### Plugin Rules
+### Plugin Guidelines
 
 - No simple slash command plugins like `/cat`. Instead, make a [user installable Discord bot](https://discord.com/developers/docs/change-log#userinstallable-apps-preview)
 - No simple text replace plugins like Let me Google that for you. The TextReplace plugin can do this
 - No raw DOM manipulation. Use proper patches and React
-- No FakeDeafen or FakeMute
-- No StereoMic
+- No microphone modifications or fake your communication status (Deafen, Mute).
+- No violation trigger. (Banning a user from Discord by a malicious plugin.)
 - No plugins that simply hide or redesign ui elements. This can be done with CSS
 - No selfbots or API spam (animated status, message pruner, auto reply, nitro snipers, etc)
-- No untrusted third party APIs. Popular services like Google or GitHub are fine, but absolutely no self hosted ones
+- No untrusted third party APIs. You have to verify your API by Bytecord Team for being used in production except for Discord API.
 - No plugins that require the user to enter their own API key
-- Do not introduce new dependencies unless absolutely necessary and warranted
+- Do not introduce new plugin without mentioning if there dependencies. 
 
-## Improve Vencord itself
+## Contribute to the project.
 
-If you have any ideas on how to improve Vencord itself, or want to propose a new plugin API, feel free to open a feature request so we can discuss.
-
-Or if you notice any bugs or typos, feel free to fix them!
+Ideas, improvements and more? Come in forums of the repo and share your throught
 
 ## Contribute to our Documentation
 
-The source code of our documentation is available at <https://github.com/Vencord/Docs>
+The source code of our documentation is available at Work in Progress
 
-If you see anything outdated, incorrect or lacking, please fix it!
-If you think a new page should be added, feel free to suggest it via an issue and we can discuss.
+Keep maintaining your project at any cost to prevent obsolescence of your client mod. 
 
-## Help out users in our Discord community
+## Keep in touch with the community
 
-We have an open support channel in our [Discord community](https://vencord.dev/discord).
-Helping out users there is always appreciated! The more, the merrier.
+= Work in Progress =
