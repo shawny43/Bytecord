@@ -1,5 +1,5 @@
 # Bytecord
-An customizable client and compatible for everyone. 
+An customizable client and compatible for everyone and a fork of Vencord with a lot of improvements. 
 
 | ![image](https://github.com/Vendicated/Vencord/assets/45497981/706722b1-32de-4d99-bee9-93993b504334) |
 | :--------------------------------------------------------------------------------------------------: |
